@@ -7,6 +7,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&color=%23F769A8&lines=Hi+%F0%9F%91%8B%2C+I'm+Mahmudul+Hasan!;I'm+full+Stack+Developer+and+JavaScript+Lover.;+Love+to+learn+Technology+and+write+code.;And+also+proud+as+a+GitHub+user.)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
 - **I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️**
